@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+}
+
+/* HEADER CODE */
+
+.heading {
+    background-color: #2fc47c;
+    justify-content: center;
+    text-align: center;
+}
+#myself {
+    height: 400px;
+    margin-bottom: 30px;
+    border-radius: 10%;
+    border: 2PX solid white;
+}
+h1, .sub-heading {
+    color: whitesmoke;
+    margin-bottom: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    letter-spacing: .2rem;
+}
+h1 {
+    padding-top: 25px;
+}
+
+/* BODY CODE */
+
+.body {
+    margin-top: 200px;
+    justify-content: center;
+    text-align: center;
+}
+
+.intro{
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 10px;
+    letter-spacing: .2rem;
+}
+
+#about-me {
+    width: 30%;
+    margin: 0px auto;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-bottom: 100px;
+}
+
+/* MY INTERESTS  */
+
+#interests{
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    padding-top: 100px;
+    margin-bottom: 10px;
+    letter-spacing: .2rem;
+}
+
+ul{
+    width: 30%;
+    margin: 0px auto;
+    text-align: left;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+/* CONTACT INFO  */
+
+.contact {
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 120px;
+}
+#reachout {
+    letter-spacing: .2rem;
+    margin-bottom: 20px;
+}
+#reacout2 {
+    margin-bottom: 20px;
+}
+button {
+    margin-bottom: 20px;
+    width: 110px;
+    background-color: rgba(0, 0, 0, 0.478);
+    border-radius: 10px;
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: green;
+}
+#btn-info{
+    text-decoration: none;
+    margin: auto;
+    color: whitesmoke;
+}
+
+
+/* FOOTER INFO  */
+
+.end {
+    background-color: rgba(0, 0, 0, 0.478);
+    color: whitesmoke;
+    height: 50px;
+    text-align: center;
+    padding-top: 25px;
+    font-family: 'Nunito Sans', sans-serif;
+    margin-top: 10px;
+}
+
+
+
